@@ -1,7 +1,9 @@
 //*Hola, Bienvenido a mi simulador de creditos
 //* tutor si ve que mis comentarios tiene estos simbolos --> * ? <-- es porque tengo una extencion que le da colores a los comentarios
 
+
 const nombre = prompt("Ingrese su nombre:");
+
 
 //?muestra las 3 variables
 let montoDePrestamo;
